@@ -1,5 +1,5 @@
 # Hello People, This is Urvis Maravaniya 👋
-## I am a beginner here and Looking for open source projects to contribute in and learn more.
+## I am a beginner here and looking for open source projects to contribute in and learn more.
 
 <!--
 **urvisism/urvisism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
