@@ -1,16 +1,26 @@
-<h1 align="center"> Hello People, I'm Urvis Maravaniya 👋 </h1>
-<img src="https://badges.pufler.dev/visits/urvisism/urvisism" alt="number of visits">
+<h1 align="center"> Hello People, This is Urvis👋</h1>  
+<img src="https://badges.pufler.dev/visits/urvisism/urvisism" alt="number of visits">  
 <img align="right" alt="Coding" width="450" 
-     src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
+     src="">
      
-<h3 align = "left">🟠 I am a beginner here and looking for open source projects to contribute in and learn more.<br><br>
---> Data Enthusiast <br> --> Keen to learn new things<br></h3>
+### 🔭 I'm a beginner here & looking for open source projects to contribute in and learn more.  
+###  - Data Enthusiast
+###  - Keen to learn new things
+
 <h2></h2>
-<h3 align="left">🔴Languages and Tools:</h3>
+<h3 align="left">🌱 I’m currently learning,</h3>
 <p align="left"> 
-<code><img src="https://github.com/urvisism/urvisism/blob/main/images/python.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img src="https://github.com/urvisism/urvisism/blob/main/images/git.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/urvisism/urvisism/blob/main/images/github.png?raw=true" alt="github" width="40" height="40"/></code>
+<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/Python.png" alt="python" width="40" height="40"/></code>
+<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/git.png" alt="git" width="40" height="40"/></code>
+<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/github.png" alt="github" width="40" height="40"/></code>
+</p>
+
+<h2></h2>
+<h3 align="left">📫 How to reach me:</h3>
+
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/twitter.png" alt="Twitter" height="30" width="30" /></a>
 </p>
 
 <!--
