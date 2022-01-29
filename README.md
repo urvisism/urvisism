@@ -8,9 +8,9 @@
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
-<code><img src="https://github.com/urvisism/urvisism/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img src="https://github.com/urvisism/urvisism/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
-<code><img height="40" width="40" src="https://github.com/urvisism/urvisism/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code>
+<code><img src="https://github.com/urvisism/urvisism/blob/main/images/python.png?raw=true" alt="git" width="40" height="40"/></code>
+<code><img src="https://github.com/urvisism/urvisism/blob/main/images/git.png?raw=true" alt="git" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/urvisism/urvisism/blob/main/images/github.png?raw=true" alt="github" width="40" height="40"/></code>
 </p>
 
 <!--
