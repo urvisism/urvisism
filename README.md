@@ -19,8 +19,8 @@
 <h3 align="left">📫 How to reach me:</h3>
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/twitter.png" alt="Twitter" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/urvis-maravaniya-753622151/" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://twitter.com/urvisism" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/twitter.png" alt="Twitter" height="30" width="30" /></a>
 </p>
 
 <!--
