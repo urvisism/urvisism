@@ -1,27 +1,26 @@
 <h1 align="center"> Hello People, This is Urvis👋</h1>  
 <img src="https://badges.pufler.dev/visits/urvisism/urvisism" alt="number of visits">  
-<img align="right" alt="Coding" width="450" 
-     src="">
      
 ### 🔭 I'm a beginner here & looking for open source projects to contribute in and learn more.  
 ###  - Data Enthusiast
 ###  - Keen to learn new things
 
 <h2></h2>
-<h3 align="left">🌱 I’m currently learning,</h3>
-<p align="left"> 
-<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/Python.png" alt="python" width="40" height="40"/></code>
-<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/git.png" alt="git" width="40" height="40"/></code>
-<code><img src="https://github.com/urvisism/urvisism/blob/a3f663fa790bd7e8a98321c2f67aae8f1459c202/Images/github.png" alt="github" width="40" height="40"/></code>
-</p>
+
+### :wrench: Tools and Technologies
+<img src = "https://img.shields.io/badge/OS-Linux-8bb13d?logo=Windows" alt = "OS: Windows"> <img src = "https://img.shields.io/badge/Editor-PyCharm-8bb13d?logo=PyCharm"> <img src = "https://img.shields.io/badge/Language-Python-8bb13d?logo=Python"> <img src = "https://img.shields.io/badge/Database-MySQL-8bb13d?logo=MySQL"> <img src = "https://img.shields.io/badge/Git-Git-8bb13d?logo=Git"> <img src = "https://img.shields.io/badge/GitHub-GitHub-8bb13d?logo=GitHub">
 
 <h2></h2>
 <h3 align="left">📫 How to reach me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/urvis-maravaniya-753622151/" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/urvis-maravaniya-753622151/" target="blank"> <img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://twitter.com/urvisism" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/twitter.png" alt="Twitter" height="30" width="30" /></a>
 </p>
+
+<h2></h2>
+
+[![Urvis's github stats](https://github-readme-stats.vercel.app/api?username=urvisism&hide=contribs,stars)](https://github.com/urvisism/)
 
 <!--
 **urvisism/urvisism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
