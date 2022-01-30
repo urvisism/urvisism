@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/urvis-maravaniya-753622151/" target="blank"> <img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/linkedin.png" alt="LinkedIn" height="30" width="30" /></a>
 <a href="https://twitter.com/urvisism" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/bea1f7b80476c2b0041c4731b6f6b48a98bc4c80/Images/twitter.png" alt="Twitter" height="30" width="30" /></a>
+<a href="https://www.instagram.com/urvisism/?hl=en" target="blank"><img align="center" src="https://github.com/urvisism/urvisism/blob/e4a0a974895d7b40c6bce823fceb35afe1fe8506/Images/instagram.png" alt="Twitter" height="30" width="30" /></a>
 </p>
 
 <h2></h2>
