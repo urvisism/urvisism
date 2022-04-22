@@ -1,7 +1,7 @@
 <h1 align="center"> Hello People, This is Urvis👋</h1>  
 <img src="https://badges.pufler.dev/visits/urvisism/urvisism" alt="number of visits">  
      
-### 🔭 I'm a beginner here & looking for open source projects to contribute in and learn more.  
+### 🔭 Looking for open source projects to contribute in and learn more.  
 ###  - Web Developing
 ###  - Data Enthusiast
 ###  - Keen to learn new things
