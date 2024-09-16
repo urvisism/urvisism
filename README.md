@@ -2,7 +2,7 @@
 <img src="https://badges.pufler.dev/visits/urvisism/urvisism" alt="number of visits">  
      
 ### 🔭 Looking for open source projects to contribute in and learn more.  
-###  - Web Developing
+###  - Machine Learning
 ###  - Data Enthusiast
 ###  - Keen to learn new things
 
